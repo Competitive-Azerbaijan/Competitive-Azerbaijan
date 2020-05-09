@@ -6,12 +6,11 @@ Bu qovluqlar dünyanın bir çox alqoritm suallarının olduğu platformaların 
 
 -   [Platformalar](#platformalar)
 -   [Open Source kariyerana başla](#open-source-kariyerana-başla)
--   [What is Gift Wrapping Algorithm?](#What-is-Gift-Wrapping-Algorithm)
--   [Thanks for your attention](#Thanks-for-your-attention)
 
 # Platformalar
 
 -   [Codeforces.com]()
+-   [Alqoritm və data strukturlar haqqında məqalələr]()
 
 # Open Source kariyerana başla
 
