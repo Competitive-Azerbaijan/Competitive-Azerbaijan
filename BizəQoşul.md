@@ -1,12 +1,13 @@
 # Bizə Qoşul
 
-Bu proyektə 3 yolla kömək edə bilərsiniz:
+Bu proyektə 2 yolla kömək edə bilərsiniz:
 
--   [Suallar ver :)](#suallar-ver)
+-   [Suallar ver, Tövsiyyələrini bizimlə bölüş, Daha yaxşı olmaq üçün problemləri bizə də de :)](#təlimat)
+-   [](#tövsiyyə-ver)
 
-# Suallar ver
+# Təlimat
 
-Bu proyektin yaranma səbəbi alqoritmləri daha yaxşı öyrənmək və bildiklərimizi başqalarına ötürməkdir. Əgər hər hansı bir sualın yaranarsa burda göstərilən təlimatı izlə və səhv etməkdən qorxma, biz buna görə burdayıq :)
+Burada göstərilən təlimatları izləyərək bizimlə hər şeyi bölüşə bilərsən.
 
 1. "Issues" bölməsinə keç
 
@@ -16,7 +17,7 @@ Bu proyektin yaranma səbəbi alqoritmləri daha yaxşı öyrənmək və bildikl
 
 ![New issue](static/go-to-new-issue.png)
 
-3. Sual bölməsinin yanındakı "Get started" düyməsinə bas
+3. Özünə uyğun bölmənin yanındakı "Get started" düyməsinə bas
 
 ![Select issue](static/select-issue.png)
 
