@@ -1,4 +1,4 @@
-# <!--Platformanın adı və sualın nömrəsini bura yazın(Xahiş olunur digər fayllara baxıb onlardan nümunə kimi istifadə edin) -->
+# <!--Platformanın adı və sualın adını və ya nömrəsini bura yazın(Xahiş olunur digər fayllara baxıb onlardan nümunə kimi istifadə edin) -->
 
 # Sual
 
