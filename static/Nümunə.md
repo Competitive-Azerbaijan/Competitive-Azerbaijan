@@ -12,8 +12,6 @@
 
 # Bu şəxslərə minnətdarıq
 
-[Vusal Ismayilov](https://github.com/VusalIs)
-
 <!-- Əgər sualın və ya həllin yaranmasında iştirak etmisinizsə öz github linkinizi bura yaza bilərsiniz -->
 
 <!-- Misal: [Vusal Ismayilov](https://github.com/VusalIs) -->
