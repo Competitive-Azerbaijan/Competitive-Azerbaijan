@@ -18,13 +18,31 @@ Bu şərtləri ödəməklə lövhənin içində maksimum neçə domino parçası
 
 Birinci sətirdə sizə M və N ədədləri veriləcək.(1 <= M <= N <= 16)
 
-### Çıxış
+### Çıxış(Output):
 
 Bir ədəd - Verilmiş lövhədə yerləşdirilə biləcək maksimum domino parçalarının sayı
 
 # Həll
 
-<!-- Sualın həllini bura yazın -->
+Bizə verilmiş M x N lövhəsinin sahəsi M\*N, domino parçalarının sahəsi isə 2\*1 yəni 2-dir. Bu o deməkdir ki, lövhədə maksimum lövhənin sahəsi bölünsün domino parçalarının sahəsi qədər domino parçası yerləşdirmək olar.
+
+#### Misal:
+
+M 5-ə, N isə 3-ə bərabərdirsə, maksimum 7 ədəd domino parçası bu lövhədə yerləşdirilə bilər. ( (5\*3)/2 == 7 )
+
+![Solution](../../static/codeforces/800-domino-piling.jpg)
+
+```c
+#include "iostream"
+using namespace std;
+int main()
+{
+    int M, N;
+    cin >> M >> N;
+    cout << (M * N) / 2 << endl;
+    return 0;
+}
+```
 
 # Bu şəxslərə minnətdarıq
 
@@ -33,5 +51,3 @@ Bir ədəd - Verilmiş lövhədə yerləşdirilə biləcək maksimum domino par�
 <!-- Əgər sualın və ya həllin yaranmasında iştirak etmisinizsə öz github linkinizi bura yaza bilərsiniz -->
 
 <!-- Misal: [Vusal Ismayilov](https://github.com/VusalIs) -->
-
-<!-- Zəhmət olmasa axır ikisindən başqa bütün kommentləri silin -->
