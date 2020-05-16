@@ -30,7 +30,7 @@ Bizə verilmiş M x N lövhəsinin sahəsi M\*N, domino parçalarının sahəsi 
 
 M 5-ə, N isə 3-ə bərabərdirsə, maksimum 7 ədəd domino parçası bu lövhədə yerləşdirilə bilər. ( (5\*3)/2 == 7 )
 
-![Solution](https://github.com/VusalIs/Competitive-Azerbaijan/tree/master/static/codeforces/800-domino-piling.jpg)
+![Solution](../../static/codeforces/800-domino-piling.jpg)
 
 ```c
 #include "iostream"
