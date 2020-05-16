@@ -9,7 +9,7 @@ Bu qovluqlar dünyanın bir çox alqoritm suallarının olduğu platformaların 
 
 # Platformalar
 
--   [Codeforces.com](codeforces/README.md)
+-   [Codeforces.com](codeforces/)
 -   [Alqoritm və data strukturlar haqqında məqalələr](məqalələr)
 
 # Open Source kariyerana başla
