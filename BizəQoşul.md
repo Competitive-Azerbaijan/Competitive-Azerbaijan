@@ -12,19 +12,19 @@ Burada göstərilən təlimatları izləyərək bizimlə hər şeyi bölüşə b
 
 1. "Issues" bölməsinə keç
 
-![Issues section](static/go-to-issues.png)
+![Issues section](static/instructions/go-to-issues.png)
 
 2. "New issues" düyməsini bas
 
-![New issue](static/go-to-new-issue.png)
+![New issue](static/instructions/go-to-new-issue.png)
 
 3. Özünə uyğun bölmənin yanındakı "Get started" düyməsinə bas
 
-![Select issue](static/select-issue.png)
+![Select issue](static/instructions/select-issue.png)
 
 4. Başlığı və sualını yazdıqdan sonra "Submit new issue" düyməsini bas və sualına cavabı tap :)
 
-![Submit issue](static/submit-issue.png)
+![Submit issue](static/instructions/submit-issue.png)
 
 <br>
 
