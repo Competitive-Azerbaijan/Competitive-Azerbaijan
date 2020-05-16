@@ -10,7 +10,7 @@ Bu qovluqlar dünyanın bir çox alqoritm suallarının olduğu platformaların 
 # Platformalar
 
 -   [Codeforces.com](Codeforces/README.md)
--   [Alqoritm və data strukturlar haqqında məqalələr](https://github.com/VusalIs/Competitive-Azerbaijan/tree/master/məqalələr)
+-   [Alqoritm və data strukturlar haqqında məqalələr](məqalələr/)
 
 # Open Source kariyerana başla
 
